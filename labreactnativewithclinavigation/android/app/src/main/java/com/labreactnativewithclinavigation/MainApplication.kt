@@ -1,4 +1,4 @@
-package com.labreactnativewhitclinavigation
+package com.labreactnativewithclinavigation
 
 import android.app.Application
 import com.facebook.react.PackageList
